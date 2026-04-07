@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 from snowflake.snowpark.functions import col
 
-st.title("🥤 Customize Your Smoothie! 🥤")
+st.title("🥤 Customize Your Smoothie! 🥤🥤")
 
 st.write(
     """Choose the fruits you want in your customer smoothie!."""
